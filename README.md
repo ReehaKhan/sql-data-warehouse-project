@@ -99,5 +99,5 @@ Hiya! I'm **Reeha Khan**. I’m a data scientist with 2.5 years of experience, 1
 
 Let's stay in touch! Feel free to connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reehakhan/)
-[![Email](https://img.icons8.com/?size=20&id=nQ4dZIRCI0nW&format=png&color=000000)](mailto:khanreeha22@gmail.com)
+[![LinkedIn](https://img.icons8.com/?size=30&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/reehakhan/)
+[![Email](https://img.icons8.com/?size=30&id=nQ4dZIRCI0nW&format=png&color=000000)](mailto:khanreeha22@gmail.com)
