@@ -35,10 +35,11 @@ data-warehouse-project/
 │
 ├── tests/                              # Test scripts and quality files
 │
-├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
+├── analytics/                          # Scripts for Exploratory Data Analysis and advanced analytics
+│
+├── data_catalog.md                     # Catalog of datasets, including field descriptions and metadata
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
-│
 ```
 ---
 
